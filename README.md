@@ -1,4 +1,4 @@
-# Aminated Square Box
+# Animated Square Box
 
 To execute the animated square box, at first create a object of SquareBox class, then call the run() method.
 
